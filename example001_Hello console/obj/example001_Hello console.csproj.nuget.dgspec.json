@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj": {}
+    "c:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj": {
+    "c:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj",
+        "projectUniqueName": "c:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj",
         "projectName": "example001_Hello console",
-        "projectPath": "C:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj",
+        "projectPath": "c:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\example001_Hello console.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\obj\\",
+        "outputPath": "c:\\Users\\Пользователь\\OneDrive\\Рабочий стол\\C# обучение\\example001_Hello console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
