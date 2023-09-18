@@ -1,0 +1,15 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\bin\Debug\net6.0\example001_Hello console.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\bin\Debug\net6.0\example001_Hello console.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\bin\Debug\net6.0\example001_Hello console.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\bin\Debug\net6.0\example001_Hello console.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\bin\Debug\net6.0\example001_Hello console.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\refint\example001_Hello console.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\example001_Hello console.genruntimeconfig.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\C# обучение\example001_Hello console\obj\Debug\net6.0\ref\example001_Hello console.dll
