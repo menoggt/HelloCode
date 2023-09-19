@@ -9,19 +9,19 @@ int xa = 40, ya = 1,
     xc = 80, yc = 30;
 
 Console.SetCursorPosition(xa, ya);
-Console.WriteLine("+");
+Console.WriteLine("хуй");
 
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine("+");
+Console.WriteLine("залупа");
 
 Console.SetCursorPosition(xc, yc);
-Console.WriteLine("+");
+Console.WriteLine("мошенка");
 
-int x = xa, y = yb;
+int x = xa, y = xb;
 
 int count = 0;
 
-while(count < 100000)
+while(count < 10000)
 {
     int what = new Random().Next(0, 3); // [0:3) 0 1 2
     if(what == 0)
