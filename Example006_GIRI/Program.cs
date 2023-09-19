@@ -10,6 +10,4 @@ if(c > max) max = c;
 if(d > max) max = d;
 if(e > max) max = e;
 
-("max =");
-(max);
-("!");
+Console.Write("max = " + max + ". Ура, неужели получилось епта");
