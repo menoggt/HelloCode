@@ -9,13 +9,13 @@ int xa = 40, ya = 1,
     xc = 80, yc = 30;
 
 Console.SetCursorPosition(xa, ya);
-Console.WriteLine("хуй");
+Console.WriteLine("х");
 
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine("залупа");
+Console.WriteLine("y");
 
 Console.SetCursorPosition(xc, yc);
-Console.WriteLine("мошенка");
+Console.WriteLine("й");
 
 int x = xa, y = xb;
 
