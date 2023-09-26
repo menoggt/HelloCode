@@ -1,0 +1,15 @@
+﻿using System.Runtime.ConstrainedExecution;
+
+Console.Write("Введите число : ");
+int n = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(n + 5);
+
+// cjvty
+/* rkglegmk
+gdfs
+fsfs
+fds
+fsdfsf
+*/
+// ctrl + /
+
